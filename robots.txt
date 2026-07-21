@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://pbhanuprasad26.github.io/personal-profile-site/sitemap.xml
